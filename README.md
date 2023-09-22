@@ -1,2 +1,5 @@
 # regression-diabetes
-Aprendizado de Máquina - Regressão
+
+Supervised Learning - Regression
+
+[english version](https://peuvitor.github.io/portfolio/projects/ds/regression-diabetes/)
